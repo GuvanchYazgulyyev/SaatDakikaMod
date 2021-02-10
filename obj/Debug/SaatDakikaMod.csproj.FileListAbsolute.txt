@@ -1,0 +1,20 @@
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.exe.config
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.exe
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.pdb
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.Form1.resources
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.exe
+C:\Users\Dell\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\bin\Debug\SaatDakikaMod.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 7\SaatDakikaMod\SaatDakikaMod\obj\Debug\SaatDakikaMod.pdb
